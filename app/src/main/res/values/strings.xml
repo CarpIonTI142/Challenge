@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="locations">Locations</string>
+    <string name="details">Details</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="required_field">This field is required</string>
+    <string name="location_saved_successfully">Location saved successfully</string>
+    <string name="location_save_failed">Location save failed</string>
+    <string name="add_new_location">Add new location</string>
+    <string name="image_url">Image url</string>
+    <string name="label">Label</string>
+    <string name="address">Address</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="distance">The distance to the location is %s km</string>
+</resources>
